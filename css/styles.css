@@ -1,0 +1,51 @@
+.home-image {
+  background-image: url(../images/chickadee_1920.jpg);
+  width: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: auto;
+  height: 98vh;
+}
+
+.home-credit {
+  font-size: .8em;
+  background: rgba(255, 255, 255, .8);
+  display: inline;
+  width: 250px;
+}
+
+.header-box {
+  background: rgba(222, 184, 135, .5);
+  display: block;
+  width: auto;
+  padding: 40px;
+}
+
+.carousel-caption{
+  color: black;
+  /* padding-top: 20px; */
+  background: rgba(255, 255, 255, .5);
+}
+
+.carousel-indicators {
+  /* background-color: rgba(0, 0, 0, .8); */
+  filter: invert(100%);
+}
+
+.icon {
+  font-size: 2em;
+}
+
+#bird-of-week {
+  max-width: 100%;
+}
+
+a {
+  color: rgb(139, 90, 43);
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
