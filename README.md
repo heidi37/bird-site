@@ -3,7 +3,7 @@ A site built with Bootstrap 4. In 2021, I built this site to practice Bootstrap 
 
 [View Live Project](https://heidifryzell.com/bird-site/)
 
-<img src="./images/birdiste.gif" alt="animated gif of homepage scroll of this bird site" />
+<img src="./images/birdsite.gif" alt="animated gif of homepage scroll of this bird site" />
 
 ### Tech Used:
 <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5" alt="HTML5 badge" height="50"> <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3" alt="CSS3 badge" height="50"> <img src="https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap" alt="bootstrap badge" height="50">
